@@ -12,5 +12,5 @@ Marcela Stade Carvalho - RM552372
 | Tela de Menu | Tela de Equipe |
 |<img width="280" height="600" alt="Captura de tela 2025-11-14 192902" src="https://github.com/user-attachments/assets/310468c7-9f3a-4e04-b58f-4877c1d5363a" />| <img width="280" height="600" alt="Captura de tela 2025-11-14 192641" src="https://github.com/user-attachments/assets/b4007923-5521-4574-9fca-91f65a0d1fe2" />|
 | Tela de Cálculo de IMC | Tela de Cálculo de IMC - Resultado |
-| <img width="280" height="600" alt="Captura de tela 2025-11-14 194630" src="https://github.com/user-attachments/assets/0a7debfc-dc99-45ca-b2fb-46a51d567920" />| <img width="280" height="600" alt="Captura de tela 2025-11-14 194630" src="https://github.com/user-attachments/assets/217da1e6-e55c-42ba-9205-27028fe78bd5" />|
+| <img width="280" height="600" alt="Captura de tela 2025-11-14 194630" src="https://github.com/user-attachments/assets/0a7debfc-dc99-45ca-b2fb-46a51d567920" />|<img width="316" height="704" alt="Captura de tela 2025-11-14 192621" src="https://github.com/user-attachments/assets/b39e508b-f80e-4316-be80-979fe2ddc519" /> |
 
